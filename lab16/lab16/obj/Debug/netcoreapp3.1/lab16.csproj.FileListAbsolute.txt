@@ -1,0 +1,13 @@
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.exe
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.deps.json
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.json
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.dev.json
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.dll
+D:\Лабы\2 курс\ООП\lab16\lab16\bin\Debug\netcoreapp3.1\lab16.pdb
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.csprojAssemblyReference.cache
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfoInputs.cache
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfo.cs
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.csproj.CoreCompileInputs.cache
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.dll
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.pdb
+D:\Лабы\2 курс\ООП\lab16\lab16\obj\Debug\netcoreapp3.1\lab16.genruntimeconfig.cache
