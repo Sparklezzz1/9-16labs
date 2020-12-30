@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\leido\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\leido\\.nuget\\packages"
+    ]
+  }
+}
