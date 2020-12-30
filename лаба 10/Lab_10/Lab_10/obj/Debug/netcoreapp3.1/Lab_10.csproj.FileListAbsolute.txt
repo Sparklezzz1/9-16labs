@@ -1,0 +1,26 @@
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csprojAssemblyReference.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csprojAssemblyReference.cache
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Второй_семестр\ООП\Лабараторная работа №10\лаба 10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache
