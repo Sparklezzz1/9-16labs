@@ -1,0 +1,13 @@
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.exe
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.deps.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.runtimeconfig.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.runtimeconfig.dev.json
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.dll
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\bin\Debug\netcoreapp3.1\Lab_14.pdb
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.csprojAssemblyReference.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.AssemblyInfoInputs.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.AssemblyInfo.cs
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.csproj.CoreCompileInputs.cache
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.dll
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.pdb
+D:\Учеба\3  семестр\ООП\ЛАБЫ\лаба 14\Lab_14\Lab_14\obj\Debug\netcoreapp3.1\Lab_14.genruntimeconfig.cache
